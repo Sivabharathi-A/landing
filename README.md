@@ -53,7 +53,7 @@ web-dev-landing-page/
    ```bash
    git clone https://github.com/Sivabharathi-A/landing.git
    cd landing
-````
+   ```
 
 2. Open `index.html` in your browser
 
